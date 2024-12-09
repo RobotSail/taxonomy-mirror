@@ -328,7 +328,7 @@ seed_examples:
 document_outline: |
   The document contains excerpts from FINTRAC regulations designed to combat money laundering and terrorist financing in Canada.
 document:
-  repo: 'https://github.com/parsa-i/taxonomy/'
-  commit: fbeaccd3e6fbcb9d73301882c65230742155ae53
+  repo: https://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@github.com/abhi1092/taxonomy-mirror.git
+  commit: 5b7e2e4c653a662b9bdf60fc39ac94dbee57355a
   patterns:
-    - merged.pdf
+    - bmo.pdf
